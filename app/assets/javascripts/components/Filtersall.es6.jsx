@@ -52,6 +52,7 @@ var popular_hashtag = [
 ]
 
 class Filersall extends React.Component {
+
   constructor() {
     super()
     this.state ={
@@ -61,7 +62,6 @@ class Filersall extends React.Component {
 
 
   render() {
-    
     return (
       <section id="trends-container">
         <h3>Trends</h3>
